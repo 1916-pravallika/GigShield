@@ -1,0 +1,89 @@
+# GigShield  
+# AI-Powered Income Protection for the Gig Economy
+
+#The Problem  
+Gig workers are the backbone of modern cities, powering delivery, ride-sharing, and logistics services.  
+However, their income is highly unpredictable due to:
+
+- Weather disruptions  
+- Air quality issues  
+- Traffic restrictions  
+- Government regulations  
+
+Traditional insurance systems are slow, manual, and inefficient — leaving gig workers without real-time financial support.
+
+---
+
+## Our Solution — GigShield  
+GigShield is an AI-powered parametric insurance platform that provides instant, automated payouts based on real-world disruptions.
+
+No claims. No delays. No paperwork.
+
+---
+
+## How It Works  
+1. Collect real-time data (Weather, AQI, Traffic)  
+2. AI detects disruptions  
+3. Threshold conditions are validated  
+4. Instant payouts are triggered automatically  
+
+---
+
+## AI Capabilities  
+- Predictive disruption modeling  
+- Location-based risk scoring  
+- Pattern recognition from historical data  
+- Dynamic threshold adjustment  
+
+---
+
+## Advanced Fraud Detection  
+GigShield uses a multi-layered system to prevent fraud:
+
+- Behavioral analysis  
+- Device-level validation (accelerometer, battery patterns)  
+- Network checks (IP consistency, VPN detection)  
+- Cluster detection using graph-based models  
+
+---
+
+## Tech Stack  
+- Backend: Spring Boot  
+- Frontend: HTML, CSS, JavaScript  
+- Database: MySQL  
+- APIs: Weather, AQI, Traffic Data  
+- AI/ML: Predictive analytics and pattern detection  
+
+---
+
+## Key Features  
+- Automated disruption detection  
+- Instant parametric payouts  
+- Fraud-resistant architecture  
+- Scalable API-driven design  
+- Simple and user-friendly interface  
+
+---
+
+## Impact  
+- Provides financial stability to gig workers  
+- Eliminates manual claim processes  
+- Ensures transparency and trust  
+- Scalable for global gig platforms  
+
+---
+
+## Future Scope  
+- Integration with platforms like Uber, Ola, Swiggy, Zomato  
+- Advanced AI models with real-world datasets  
+- Mobile application launch  
+- Micro-insurance and financial services integration  
+
+---
+
+## Team Vision  
+GigShield aims to redefine digital insurance by making it real-time, intelligent, and fair — ensuring that gig workers are protected when they need it the most.
+
+---
+
+Empowering the workforce that powers our world.
